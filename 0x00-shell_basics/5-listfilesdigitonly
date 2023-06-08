@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "-rwxr--r-- 1 root root  73 Jun  7 21:10 0-current_working_directory
+-rwxr--r-- 1 root root 112 Jun  7 21:15 1-listit
+-rwxr--r-- 1 root root  24 Jun  7 21:30 2-bring_me_home
+-rwxr--r-- 1 root root 192 Jun  7 21:36 3-listfiles
+-rwxr--r-- 1 root root 244 Jun  7 21:40 4-listmorefiles"
