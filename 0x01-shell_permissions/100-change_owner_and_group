@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "chown -hR vincent:staff /u"
