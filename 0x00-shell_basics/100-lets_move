@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "mv *[A-Z] /tmp/u"
